@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head> <!--Import Google Icon Font-->
+      <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+      <!--Import materialize.css-->
+      <link type="text/css" rel="stylesheet" href="css/materialize.min.css"  media="screen,projection"/>
+
+      <!--Let browser know website is optimized for mobile-->
+      <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<style>
+body{background:rgb(255,251,204);}
+.a{height:100px;
+width:100%;
+background:white;
+margin-bottom:2px;
+}
+.b div{float:left;
+}
+.b a{color:grey;
+text-decoration:none;
+}
+.b{width:100%;}
+
+</style>
+</head>
+
+<body><div class="row"><div class="col s3"></div>
+<div class="col s6"><div class="a">
+</div>
+<div class="b">
+<a href="" class="b1"><div style="background-color:white;margin-right:1px;border-radius:0 0 0 25px;text-align:center;padding:12px 0 12px 0;width:33.2%;font-size:1vw">
+Ask question</div></a>
+<a href=""><div style="background-color:white;text-align:center;padding:12px 0 12px 0;width:33.3%;font-size:1vw">
+Write experience</div></a>
+<a href="" class="b2"><div style="background-color:white;margin-left:1px;border-radius:0 0 25px 0;text-align:center;padding:12px 0 12px 0;width:33.2%;font-size:1vw">
+Write activity</div></a>
+</div></div>
+<div class="col s3"></div></div>
+ <script type="text/javascript" src="js/materialize.min.js"></script>
+</body>
+</html>
